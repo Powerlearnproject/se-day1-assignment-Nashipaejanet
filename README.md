@@ -4,13 +4,13 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+---QUESTION 1--
 
 Software Engineering is the systematic application of engineering principles to the development, maintenance, and management of software systems. It emphasizes quality, efficiency, and scalability, ensuring that software meets user needs and performs reliably.
 
 Importance in the Technology Industry: 1.Complexity Management: Handles large-scale, complex software projects. 2.Quality Assurance: Ensures software reliability, security, and maintainability. 3.Cost-Effectiveness: Reduces project costs through proper planning and resource management. 4.Innovation Driver: Supports the creation of cutting-edge solutions in fields like AI, healthcare, and finance.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+---QUESTION 2--
 
 Inception of Programming Languages (1940s-1950s): Introduction of assembly and high-level languages like FORTRAN and COBOL. Made software development more accessible and systematic.
 
@@ -18,7 +18,7 @@ Emergence of Structured Programming (1960s-1970s): Adoption of modular design wi
 
 Agile Manifesto (2001): Shift from rigid processes to iterative, flexible development. Focus on customer collaboration and adaptability.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+---QUESTION 3--
 
 Requirement Analysis: Gathering and analyzing user needs. · Design: Creating architecture and system designs. · Implementation: Coding and building the software. · Testing: Verifying and validating software functionality. · Deployment: Releasing the software to users. · Maintenance: Updating and improving the software post-launch.
 
@@ -38,8 +38,7 @@ Delivery: Waterfall: Entire product is delivered after all phases are completed.
 
 Project Suitability: Waterfall: Best for projects with clear, unchanging requirements. Agile: Suitable for projects with dynamic or evolving requirements.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+---QUESTION 4--
 Software Developer
 
 Roles:
@@ -75,7 +74,8 @@ Creating and maintaining project schedules and milestones.
 Communicating project progress to stakeholders.
 Managing risks and resolving roadblocks.
 Ensuring the project meets deadlines and quality expectations.
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+---QUESTION 5--
 
 Integrated Development Environments (IDEs) Importance:
 
@@ -196,7 +196,7 @@ Importanc:
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+---QUESTION 1--
 
 Prompt engineering is the practice of designing, refining, and structuring input queries or instructions (prompts) to elicit specific, accurate, and useful responses from AI models, particularly large language models like GPT. It involves crafting prompts that guide the AI to understand the context, task, or desired outcome effectively.
 
